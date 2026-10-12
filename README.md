@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # qa-web-ui-lab
 
 Proyecto de automatización **Web UI** con **Playwright + Python + Page Object Model (POM) + Allure**.
@@ -91,3 +92,7 @@ El formulario de login del sitio incluye un widget **reCAPTCHA**
 deshabilitado hasta resolver el reto. Por eso las pruebas validan el
 **comportamiento del formulario** (presencia de campos, llenado, botón visible)
 y el login real queda condicionado a credenciales + resolución del reto.
+=======
+# QA-WEB-UI-LAB-Proyecto-Integrador
+Proyecto enfocado en el aprendizaje en el mundo de la automatización TAE, orientado a la mejora continua y respaldado por la revisión de mentores de Aeroméxico.
+>>>>>>> 9882b62cd4b8c56ddd17f29b5ca949f0f6c337a4
